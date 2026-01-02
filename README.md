@@ -1,4 +1,4 @@
-Antes de executar o docker-compose up, crie a rede observability com o comando
+Antes de executar o docker-compose up -d, crie a rede observability com o comando
 ```bash
 $ docker network create observability 
 ```
